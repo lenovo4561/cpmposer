@@ -1,0 +1,10 @@
+{
+    "name": "administrator/cpmposer",
+    "authors": [
+        {
+            "name": "Tony-Li",
+            "email": "815428576@qq.com"
+        }
+    ],
+    "require": {}
+}
